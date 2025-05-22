@@ -1,14 +1,14 @@
 # My Room Portfolio
+<center>
+  <a href="https://vivekroom.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</center>
+
 
 <p align="center"> 
     <img src="./public/main.png">
 </p>
-
-**Live: [Step Into My Virtual Room](https://vivekroom.vercel.app/)**
-
-  <a href="https://vivekroom.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
 
 Welcome to my immersive 3D universe—a digital sanctuary where creativity meets interactivity! This isn’t just a portfolio; it’s a dynamic playground where every object tells a story. Flip switches, play retro games, explore my projects, and even set the mood with lighting—all within a meticulously crafted virtual space.
 
