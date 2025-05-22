@@ -1,10 +1,9 @@
 # My Room Portfolio
-<center>
+
   <a href="https://vivekroom.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
-</center>
-
+<br><br>
 
 <p align="center"> 
     <img src="./public/main.png">
