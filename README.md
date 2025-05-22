@@ -10,16 +10,16 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 ## Technologies Used
 
-⚛️ React – The foundation of this interactive experience.<br><br>
-🎨 Three.js & react-three/fiber (r3f) – Bringing 3D magic to life. (r3f docs | Three.js)
-✨ react-three/drei (drei) – Handy helpers for 3D wizardry. (Explore drei)
-🌈 react-three/postprocessing – Visual effects that dazzle. (See postprocessing)
-🎛️ Leva – A sleek control panel to tweak the experience. (Leva docs)
-🔄 Zustand – Effortless state management. (Zustand intro)
-🎮 react-emulatorjs – Retro gaming, right in your browser. (EmulatorJS)
-🎵 Howler.js – Rich audio for an immersive vibe. (Howler docs)
-🌀 GSAP – Buttery-smooth animations. (GSAP mastery)
-🛠️ Blender – Every 3D model, sculpted by hand. (Blender)
+⚛️ React – The foundation of this interactive experience.<br>
+🎨 Three.js & react-three/fiber (r3f) – Bringing 3D magic to life. (r3f docs | Three.js)<br>
+✨ react-three/drei (drei) – Handy helpers for 3D wizardry. (Explore drei)<br>
+🌈 react-three/postprocessing – Visual effects that dazzle. (See postprocessing)<br>
+🎛️ Leva – A sleek control panel to tweak the experience. (Leva docs)<br>
+🔄 Zustand – Effortless state management. (Zustand intro)<br>
+🎮 react-emulatorjs – Retro gaming, right in your browser. (EmulatorJS)<br>
+🎵 Howler.js – Rich audio for an immersive vibe. (Howler docs)<br>
+🌀 GSAP – Buttery-smooth animations. (GSAP mastery)<br>
+🛠️ Blender – Every 3D model, sculpted by hand. (Blender)<br>
 
 
 ## Inspired By Visionaries
