@@ -4,7 +4,7 @@
     <img src="./public/roomfinalss1.png">
 </p>
 
-**Live: [at010303.vercel.app](https://at010303.vercel.app/)**
+**Live: [Vivek's MAC](https://vivekmac.vercel.app/)**
 
 Welcome to my interactive 3D room portfolio! This project showcases a virtual room filled with numerous interactive objects. Click on these objects to engage with them—change the lighting and theme, play a game of Mario, listen to music, view my projects, and much more. Feel free to explore and interact with everything!
 
