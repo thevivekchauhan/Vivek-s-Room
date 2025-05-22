@@ -38,7 +38,7 @@ const DispFrame = React.memo(({ nodes }) => {
     // Load video and image textures
     const desktopWallpaper = useVideoTexture('./assets/desktopWallpaper.mp4');
     const tvWallpaper = useVideoTexture('./assets/marioWallpaper.mp4');
-    const smartphoneWallpaper = useTexture('./assets/smartphoneWallpaper.webp');
+    const smartphoneWallpaper = useTexture('./assets/smartphoneWallpaper.jpg');
     const musicBg = useTexture('./assets/SpotifyClone.webp');
 
     return (

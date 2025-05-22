@@ -12,8 +12,8 @@ extend({ TextureMaterial });
 const PhotoFrame = React.memo(({ toggle, nodes }) => {
     const frame = useRef();
 
-    const dayFrame = useTexture('./assets/bakeFrameDaycmp.webp');
-    const nightFrame = useTexture('./assets/bakeFrameNightcmp.webp');
+    const dayFrame = useTexture('./assets/bakeFrameDaycmp.jpg');
+    const nightFrame = useTexture('./assets/bakeFrameNightcmp.png');
     const lightMapFrame = useTexture('./assets/bakeFrameLightMapcmp.webp');
 
     const textureProps = useMemo(() => {

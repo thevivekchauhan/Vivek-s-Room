@@ -49,13 +49,13 @@ const DispItem = React.memo(({ toggle, nodes }) => {
     }, [toggle]);
 
     // Load textures
-    const dBakeddisp = useTexture('./assets/boardBakedDcmp.webp');
+    const dBakeddisp = useTexture('./assets/boardBakedDcmp.jpg');
     dBakeddisp.flipY = false;
     dBakeddisp.magFilter = THREE.LinearFilter;
     dBakeddisp.minFilter = THREE.NearestFilter;
     dBakeddisp.generateMipmaps = false;
 
-    const nBakeddisp = useTexture('./assets/boardBakedNcmp.webp');
+    const nBakeddisp = useTexture('./assets/boardBakedNcmp.jpg');
     nBakeddisp.flipY = false;
     nBakeddisp.magFilter = THREE.LinearFilter;
     nBakeddisp.minFilter = THREE.NearestFilter;
