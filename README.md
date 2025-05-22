@@ -10,7 +10,7 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 ## Technologies Used
 
-⚛️ React – The foundation of this interactive experience.
+⚛️ React – The foundation of this interactive experience.<br><br>
 🎨 Three.js & react-three/fiber (r3f) – Bringing 3D magic to life. (r3f docs | Three.js)
 ✨ react-three/drei (drei) – Handy helpers for 3D wizardry. (Explore drei)
 🌈 react-three/postprocessing – Visual effects that dazzle. (See postprocessing)
