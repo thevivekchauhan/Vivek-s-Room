@@ -24,14 +24,14 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 ## Inspired By Visionaries
 
-🏠 Bruno Simon’s "My Room in 3D"
-🎨 Henry Heffernan’s Portfolio
-🍜 Jesse’s Ramen Shop
+🏠 Bruno Simon’s "My Room in 3D"<br>
+🎨 Henry Heffernan’s Portfolio<br>
+🍜 Jesse’s Ramen Shop<br>
 
 
 ## Get It Running
 
-Install Node.js
+Install Node.js<br>
 Fire up the terminal:
 
 ```
