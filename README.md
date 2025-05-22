@@ -1,7 +1,7 @@
 # My Room Portfolio
 
 <p align="center"> 
-    <img src="./public/roomfinalss1.png">
+    <img src="./public/main.png">
 </p>
 
 **Live: [Vivek's MAC](https://vivekmac.vercel.app/)**
