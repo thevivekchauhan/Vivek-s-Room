@@ -37,7 +37,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 🍜 Jesse’s Ramen Shop<br>
 
 
-## Get It Running
 
 Install Node.js<br>
 Fire up the terminal:
