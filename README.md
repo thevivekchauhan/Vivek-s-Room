@@ -39,7 +39,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-# Run the local server at localhost:5173
 npm run dev
 
 # Build for production in the dist/ directory
