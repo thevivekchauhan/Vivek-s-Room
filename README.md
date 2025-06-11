@@ -40,7 +40,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-# Build for production in the dist/ directory
 npm run build
 ```
 
