@@ -40,6 +40,5 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-```
 
 Dive in, click around, and uncover hidden surprises. The room is yours to explore—enjoy the journey! 🚀
