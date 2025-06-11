@@ -39,7 +39,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-```
 # Install dependencies
 npm install
 
