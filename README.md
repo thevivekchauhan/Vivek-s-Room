@@ -40,7 +40,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-npm run build
 ```
 
 Dive in, click around, and uncover hidden surprises. The room is yours to explore—enjoy the journey! 🚀
