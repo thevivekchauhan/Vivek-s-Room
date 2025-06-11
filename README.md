@@ -38,8 +38,6 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 
 
 
-
-# Install dependencies
 npm install
 
 # Run the local server at localhost:5173
