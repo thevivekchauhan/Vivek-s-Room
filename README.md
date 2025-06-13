@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <br>
-  My Room Portfolio.
+  My Room Portfolio
   <br>
 </h1>
   
