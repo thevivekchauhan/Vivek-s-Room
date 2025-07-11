@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <br>
-  My Room Portfolio
+  My Room Portfolio.
   <br>
 </h1>
   
@@ -37,20 +37,8 @@ Welcome to my immersive 3D universe—a digital sanctuary where creativity meets
 🍜 Jesse’s Ramen Shop<br>
 
 
-## Get It Running
 
-Install Node.js<br>
-Fire up the terminal:
 
-```
-# Install dependencies
-npm install
 
-# Run the local server at localhost:5173
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
 
 Dive in, click around, and uncover hidden surprises. The room is yours to explore—enjoy the journey! 🚀
