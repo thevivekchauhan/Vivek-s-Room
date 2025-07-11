@@ -26,8 +26,7 @@ const DesktopiFrame = React.memo(() => {
                         width={1511}
                         height={852}
                         title="embed"
-                        // src="https://vivek-os-git-main-vivekos-projects.vercel.app/"
-                        src="https://vivekcore.vercel.app/"
+                        src="https://10clone.vercel.app/"
                         style={{ border: 'none' }}
                         ref={iframeRef}
                     />
